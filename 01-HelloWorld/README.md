@@ -21,4 +21,4 @@ $ zxbc.py -taB hello.bas
 
 We will obtain this result:
 
-![Helloworld](HelloworldBasic.png)
+![Helloworld](Helloworld.jpg)
